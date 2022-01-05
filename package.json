@@ -3,7 +3,7 @@
 	"displayName": "Convert Selection",
 	"description": "Surround a selection with multiple cursors.",
   "publisher": "ArturoDent",
-	"version": "0.0.1",
+	"version": "0.0.2",
   "repository": {
     "type": "git",
     "url": "https://github.com/ArturoDent/convert-selection"
@@ -22,9 +22,9 @@
 	"main": "./extension.js",
 	"contributes": {
 		"commands": [{
-            "command": "convert-selection.surround",
-            "category": "Convert",
-            "title": "Surround selection(s) with multi-cursors"
+      "command": "convert-selection.surround",
+      "category": "Convert",
+      "title": "Surround selection(s) with multi-cursors"
 
 		}],
     "keybindings": [
