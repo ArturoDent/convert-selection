@@ -2,7 +2,7 @@
 
 This extension will surround one or more selections with cursors.  Demo:
 
-<img src="https://github.com/ArturoDent/convert-selection/blob/master/images/surroundSelection.gif?raw=true" width="400" height="200" alt="surround selection with multiple cursors demo"/>  
+<img src="https://github.com/ArturoDent/convert-selection/blob/master/images/surroundSelection.gif?raw=true" width="800" height="200" alt="surround selection with multiple cursors demo"/>  
 
 It does not matter whether the selection is creates left-to-right or right-to-left. 
  
